@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/79716655/131072719-aeb13bbd-33c6-4b60-b236-e7cb567e2eb3.png)
 
 <!--
 **FrancoMartinPersonal/FrancoMartinPersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
