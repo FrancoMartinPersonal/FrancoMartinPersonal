@@ -13,4 +13,4 @@
 
 
     Dogs Proyect
-<img align="https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg" width= "30%" src='PETSHOP.png' /><img align="center" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg' /><img align="right" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg' />
+<img align="https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg" width= "30%" src='PETSHOP.png' /><img align="center" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2002.jpg' /><img align="right" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2003.jpg' />
