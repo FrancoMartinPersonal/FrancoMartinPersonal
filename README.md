@@ -20,6 +20,6 @@
 ## :paperclip: How to reach me or just talk:
 <span >
 <a href="https://www.linkedin.com/in/franco-martin-dev/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="francomartin.personal@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="mailto:francomartin.personal@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
 </span>
   
