@@ -14,7 +14,7 @@
 
     Foodox Proyect
   <div display="flex" justifyContent="center"> 
-<img align="left" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg' /><img align="center" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2002.jpg' /><img align="right" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2003.jpg' />
+<img align="left" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%201.jpg' /><img align="center" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%202.jpg' /><img align="right" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%203.jpg' />
   </div>
 ******
   
