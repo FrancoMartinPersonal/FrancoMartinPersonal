@@ -12,9 +12,10 @@
  <h1 align="center"> Projects </h1>
 
 
-    Dogs Proyect
-<img align="left" width= "31%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg' /><img align="center" width= "33%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2002.jpg' /><img align="right" width= "31%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2003.jpg' />
-  
+    Foodox Proyect
+  <div display="flex" justifyContent="center"> 
+<img align="left" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2001.jpg' /><img align="center" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2002.jpg' /><img align="right" width= "30%" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/proyecto%20individual%2003.jpg' />
+  </div>
 ******
   
 ## :paperclip: How to reach me or just talk:
