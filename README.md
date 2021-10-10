@@ -20,7 +20,7 @@
   
      E-Commerce Proyect
   <div display="flex" justifyContent="center" align="center"> 
-<img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/ e-market-1.jpg' /><img width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/ e-market-2.jpg' /><img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/ e-market-3.jpg' />
+<img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyecto-grupal e-market-1.jpg' /><img width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyecto-grupal/e-market-2.jpg' /><img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyecto-grupal e-market-3.jpg' />
   </div>
   
   https://pf-regionales.vercel.app/
