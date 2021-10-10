@@ -13,7 +13,7 @@
 
 
     Foodox Proyect
-  <div display="flex" justifyContent="center"> 
+  <div display="flex" justifyContent="center" align="center"> 
 <img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%201.jpg' /><img width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%202.jpg' /><img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%203.jpg' />
   </div>
   https://pi-dogs-phi.vercel.app/
