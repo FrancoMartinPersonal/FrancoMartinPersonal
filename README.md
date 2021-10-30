@@ -17,7 +17,8 @@
   <div display="flex" justifyContent="center" align="center"> 
 <img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%201.jpg' /><img width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%202.jpg' /><img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyects/individual/dogs%203.jpg' />
   </div>
-  https://pi-dogs-phi.vercel.app/
+ deploy: https://pi-dogs-phi.vercel.app/
+ repo: https://github.com/FrancoMartinPersonal/PI-dogs
   
      E-Commerce Proyect
      
@@ -25,8 +26,8 @@
 <img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyecto-grupal/e-market-1.jpg' /><img width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyecto-grupal/e-market-2.jpg' /><img  width= "30%" margin="10px" src='https://github.com/FrancoMartinPersonal/FrancoMartinPersonal/blob/main/proyecto-grupal/e-market-3.jpg' />
   </div>
   
-  https://pf-regionales.vercel.app/
-  
+  deploy : https://pf-regionales.vercel.app/
+  repo : https://github.com/BrunoAntenucci/PF-Regionales
 ******
   
 ## :paperclip: How to reach me or just talk:
